@@ -41,6 +41,6 @@
   },
   "homepage": "https://github.com/EddyVerbruggen/Custom-URL-scheme#readme",
   "scripts": {
-    "preinstall": "node preinstall.js"
+    
   }
 }
